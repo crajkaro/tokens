@@ -1,0 +1,33 @@
+{
+  "symbol": "BTCUI",
+  "address": "0x5f2ec9cf1ec1c0e2c880b6584921e812a4225395",
+  "decimals": 8,
+  "name": "Bitcoin Unicorn",
+  "ens_address": "",
+  "website": "https://www.bitcoinunicorn.io",
+  "logo": {
+    "src": "https://www.bitcoinunicorn.io/download/file.php?avatar=2_1522944136.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "btcunicorn1@gmail.com",
+    "url": "https://www.bitcoinunicorn.io/viewforum.php?f=238"
+  },
+  "social": {
+    "blog": "",
+    "chat": "https://www.bitcoinunicorn.io/app.php/mchat/archive",
+    "facebook": "",
+    "forum": "https://www.bitcoinunicorn.io",
+    "github": "https://github.com/crajkaro/BitcoinUnicorn",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/christophe-klouchi-044b05155/",
+    "reddit": "https://www.reddit.com/r/BitcoinUnicorn/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/BtcUnicorn1",
+    "youtube": ""
+  }
+}
